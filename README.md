@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @shabidmadgicaltechdom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @shabidkhan
+- 👀 I’m interested in Python, Nodejs, and Reactjs
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
+- 📫 How to reach me ...??
 
 <!---
 shabidmadgicaltechdom/shabidmadgicaltechdom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
